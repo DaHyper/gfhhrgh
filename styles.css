@@ -1,0 +1,21 @@
+.CompVirus {
+  font-size: 45px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  background: black;
+  padding-bottom: 15px;
+  padding-top: 5px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-family: "Montserrat", sans-serif;
+}
